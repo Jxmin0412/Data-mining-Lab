@@ -1,0 +1,6 @@
+STUID, AGE,GRADE ,GENDER,EMPLOYED
+1,18,1st class,MALE,YES
+2,19,2nd class,FEMALE,NO 
+3,20,1st class,MALE,YES
+4,20,1st class,FEMALE,YES
+5,19,2nd class,MALE,NO 
